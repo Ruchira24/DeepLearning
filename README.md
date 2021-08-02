@@ -1,5 +1,4 @@
-# DeepLearning
-Computer Vision and Natural Language Processing projects
+# Natural Language Processing projects
 
 PROJECT: Building a NLP classifier that predicts multiple features of the author of a given blog. We have designed it as a Multi label classification problem.
 
